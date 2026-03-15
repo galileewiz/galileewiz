@@ -1,4 +1,4 @@
-# Galilee — Data Portfolio
+# Galilee - Data Portfolio
 
 ## SQL Project
 [E-Commerce Sales Analysis](https://galileewiz.github.io/galileewiz/sql_portfolio-gv.html)
